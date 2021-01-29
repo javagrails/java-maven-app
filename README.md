@@ -1,2 +1,2 @@
 # java-maven-app
-How to mavenize a simple java application
+How to mavenize a simple java application - test

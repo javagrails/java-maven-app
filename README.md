@@ -119,5 +119,5 @@ Console Print : Java Maven App Created
 ```
 
 
-# Bye Happy Coding - fork, start below
+# Bye Happy Coding - fork, star below
 [**https://github.com/javagrails**](https://github.com/javagrails)

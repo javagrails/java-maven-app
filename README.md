@@ -3,6 +3,10 @@
 
 [Reference](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
+
+![Resources](https://github.com/javagrails/java-maven-app/blob/develop/docs/java-maven-jar1.png)
+
+
 ### Necessary pre installed tools
 ```bash
 1. Java/JDK any version 1.8 & above

@@ -4,7 +4,7 @@
 [Reference](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
 
-![Resources](https://github.com/javagrails/java-maven-app/blob/fresh/docs/java-maven-jar1.png)
+![Resources](/docs/java-maven-jar1.png)
 
 
 ### Necessary pre installed tools
